@@ -1,0 +1,19 @@
+body {
+  background-color: antiquewhite;
+}
+h1 {
+  text-align: center;
+  text-decoration: overline underline;
+  color: brown;
+}
+p {
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: italic;
+  text-align: justify;
+  line-height: 1.5; /*tamaño del espaciado entre líneas*/
+  letter-spacing: 5px; /*espaciado entre letras*/
+  text-transform: capitalize;/*transforma el texto*/
+}
