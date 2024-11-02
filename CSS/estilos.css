@@ -1,7 +1,17 @@
-body{
-    background-color: antiquewhite;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+body {
+  background-color: antiquewhite;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
-h1{
-    color: brown;
+h1 {
+  color: brown;
+}
+h2 {
+  color: brown;
+}
+.ejercicioImportante{
+    color: tomato;
+}
+#ejercicioPrincipal{
+    color: white;
+    background-color: tomato;
 }
