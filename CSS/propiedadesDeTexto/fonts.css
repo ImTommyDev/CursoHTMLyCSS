@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Tommy";
+    src: url("fonts/Cinzel-Regular.ttf") format("truetype"); /*.ttf significa truetype, le indico el formato porque el navegador carga más rápido un archivo si sabe de entrada que formato es*/
+    font-weight: 400;
+
+}
+@font-face {
+    font-family: "Tommy";
+    src: url("fonts/Cinzel-Medium.ttf") format("truetype"); /*.ttf significa truetype, le indico el formato porque el navegador carga más rápido un archivo si sabe de entrada que formato es*/
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Tommy";
+    src: url("fonts/Cinzel-Black.ttf") format("truetype"); /*.ttf significa truetype, le indico el formato porque el navegador carga más rápido un archivo si sabe de entrada que formato es*/
+    font-weight: 900;
+}
