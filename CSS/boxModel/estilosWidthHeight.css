@@ -1,0 +1,16 @@
+div {
+  background-color: bisque;
+  width: 200px;
+  height: 200px;
+}
+h1 {
+  background-color: aliceblue;
+  width: 50%;
+  height: 50%;
+}
+form {
+  width: 500px;
+}
+input {
+  width: 90%; /*El input está dentro del formulario, al tenerlo con %, si la caja contenedora (en este caso el form) mide menos, el input se ajusta a esta*/
+}
