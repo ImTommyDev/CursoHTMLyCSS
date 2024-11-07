@@ -1,0 +1,20 @@
+div{
+    background-color: bisque;
+    margin: auto;
+    width: 100px;
+    text-align: center;
+    /*border*/
+    /* border-width: 2px;
+    border-color: brown;
+    border-style: solid; */
+    border: 2px solid brown;
+    border-radius: 5px;
+}
+
+input{
+    margin: 5px;
+    padding: 6px;
+    border: none;
+    border-bottom: 0.5px rgb(56, 56, 56) solid;
+    background-color: rgb(245, 245, 245);
+}
